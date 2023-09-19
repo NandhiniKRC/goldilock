@@ -8,7 +8,7 @@ def generate_random_string(length, upper = False, digits = False, punctuation = 
     """This function generates a random string of a given length.
 
     Args:
-        length (int, optional): The length of the string to generate. Defaults to s10.
+        length (int, optional): The length of the string to generate. Defaults to 10.
         upper (bool, optional): Whether to use uppercase letters or not. Defaults to False.
         digits (bool, optional): Whether to use digits or not. Defaults to False.
         punctuation (bool, optional): Whether to use punctuations or not. Defaults to False.

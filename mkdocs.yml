@@ -80,7 +80,7 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/NandhiniKRC/goldilock/issues
     - Examples:
-        - examples/intro.ipynb
+        - examples/intro.ipynb # we are providing file path to open a new section on the website
     - API Reference:
           - goldilock module: goldilock.md
           - common module: common.md
