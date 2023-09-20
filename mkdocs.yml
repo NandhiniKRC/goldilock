@@ -81,6 +81,9 @@ nav:
     - Report Issues: https://github.com/NandhiniKRC/goldilock/issues
     - Examples:
         - examples/intro.ipynb # we are providing file path to open a new section on the website
+        # by default the file looks for this information in docs file -  give path relative to path file
+
+        -examples/folium.ipynb
     - API Reference:
           - goldilock module: goldilock.md
           - common module: common.md
