@@ -1,0 +1,4 @@
+ 
+# goldilock module
+
+::: goldilock.goldilock
